@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bodyguard_Plugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bodyguard_Plugin</output-path>
+    <root id="archive" name="Bodyguard_Plugin.jar">
+      <element id="module-output" name="bodyguard" />
+    </root>
+  </artifact>
+</component>

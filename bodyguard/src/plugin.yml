@@ -1,0 +1,11 @@
+name: bodyguard
+
+author: Maria
+main: bodyguard
+
+commands:
+  bodyguard:
+    description: Spawns a Golem to protect a Player
+    usage: <command> [player]
+
+version: 1.0
